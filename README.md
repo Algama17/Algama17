@@ -1,5 +1,4 @@
 ## Hi there 👋
-![App Screenshot](https://i.giphy.com/GRk3GLfzduq1NtfGt5.webp)
 
 
 **Algama17/Algama17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![App Screenshot](https://i.giphy.com/GRk3GLfzduq1NtfGt5.webp)
 
