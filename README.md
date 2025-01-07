@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![App Screenshot](https://i.giphy.com/GRk3GLfzduq1NtfGt5.webp)
-
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
+
+![App Screenshot](https://i.giphy.com/GRk3GLfzduq1NtfGt5.webp)
