@@ -1,5 +1,5 @@
 ## Hi there 👋
-![App Screenshot]([[https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://i.giphy.com/GRk3GLfzduq1NtfGt5.webp)](http://www.blackrosesplayingcards.com/))
+<iframe src="https://giphy.com/embed/GRk3GLfzduq1NtfGt5" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BlackRosesPlayingCards-cat-meme-surprise-GRk3GLfzduq1NtfGt5">via GIPHY</a></p>
 
 **Algama17/Algama17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
