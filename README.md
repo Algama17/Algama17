@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C# and Unity
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, React, Java, Spring Boot, Sql
 
 ![App Screenshot](https://i.giphy.com/GRk3GLfzduq1NtfGt5.webp)
